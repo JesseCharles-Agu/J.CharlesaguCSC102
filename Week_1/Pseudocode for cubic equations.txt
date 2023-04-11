@@ -1,0 +1,22 @@
+PSEUDOCODE FOR CUBIC EQUATIONS
+
+Bring out inputs for a,b,c,d
+
+a1= b/a
+a2= c/a
+a3= d/a
+
+get simple varibales to get Q
+st_1 & st_2
+
+get simple varibales to get R
+pt_1, pt_2, pt_3 & pt_4
+
+get simple varibales to get S
+tt_1 & tt_2
+
+get simple varibales to get T
+rt_1 & rt_2
+
+then do the solutions for the root and solve them
+x1, x2 & x3

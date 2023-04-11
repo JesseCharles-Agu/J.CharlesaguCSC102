@@ -1,0 +1,47 @@
+SIMPLE INTEREST
+INPUT P
+INPUT R
+INPUT T
+#ALL should be integers
+A = P * (1 + (R / 100) * T
+print t
+
+#ALL should be integers
+#break them down into bits
+
+A
+
+
+COMPOUND INTEREST
+INPUT P
+INPUT R
+INPUT n
+INPUT t
+
+#ALL should be integers
+#break them down into bits
+
+step_1 = 1 + (R / n)
+step_2 = (step_1) ^ n * t
+step_3 = P * step_2
+A = step_3
+print A
+
+PROGRAM FOR ANNUITY PLAN
+INPUT P
+INPUT M
+INPUT T
+INPUT R
+INPUT n
+INPUT t
+
+#ALL should be integers
+#break them down into bits
+
+step_1 = (1 + R / n) ^ n * t
+step_2 = step_1 - 1
+step_3 = step_2 / (R / n)
+step_4 = step_3 * (P * M * T)
+A = step_4
+
+print A
