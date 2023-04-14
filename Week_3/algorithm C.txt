@@ -1,0 +1,9 @@
+#Algorithm that takes as input two names and their corresponding age and then swap the ages
+input both names as name_1 & name_2
+input both ages as age_1 & age_2
+print (your ages will be swapped now!)
+print (name_1 is age_1) using "f" function and {} brackets
+print (name_2 is age_2) using "f" function and {} brackets
+print (your ages would be swapped now)
+print (name_1 is age_2) using "f" function and {} brackets
+print (name_2 is age_1) using "f" function and {} brackets

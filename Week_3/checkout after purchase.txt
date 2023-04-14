@@ -1,0 +1,5 @@
+scan the product through the bar code
+after the product is scanned, it will show on the monitor
+print (the price of the product)
+sum the price of the product with the other products the customer bought
+print the receipt and give the customer their products to go away with

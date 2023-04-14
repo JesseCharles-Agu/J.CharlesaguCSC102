@@ -1,0 +1,10 @@
+Pseudocode for quadratic equation
+input numbers for a, b and c
+split the formula: -b +- ((b ** 2) -(4 *a *c)) ** 1/2 / 2*a
+then print out the roots for x1 and x2
+if (b**2) - (4*A*C) **1/2 = 0
+print(it is real and equal)
+if (b**2) - (4*A*C) **1/2 > 0
+print(it is real and unequal)
+if (b**2) - (4*A*C) **1/2 < 0
+print(it is imaginary)
